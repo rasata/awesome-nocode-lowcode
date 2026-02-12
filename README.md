@@ -354,7 +354,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Learning
 
--
+- [Awesome Vibe Coding](https://github.com/taskade/awesome-vibe-coding) - A curated list of 245+ tools, platforms, and resources for vibe coding — building software through natural language prompts.
 
 ## Blog Posts
 
